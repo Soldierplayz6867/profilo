@@ -10,7 +10,7 @@ baseURL: 'https://me.soldierplayz.site/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: zh-Hant
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
