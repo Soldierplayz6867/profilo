@@ -5,10 +5,10 @@
 
 main:
   - name: 首頁
-    url: '/'
+    url: '#about'
     weight: 10
   - name: 部落格
-    url: 'https://soldierplayz.site/'
+    url: '/posts/'
     weight: 20
   - name: 報告
     url: '#projects'
