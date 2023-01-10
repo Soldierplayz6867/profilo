@@ -216,7 +216,7 @@ sections:
         - icon: discord
           icon_pack: fab
           name: 私訊我
-          link: '[https://discordapp.com/users/561210753517092884](https://discordapp.com/users/561210753517092884)'
+          link: https://discordapp.com/users/561210753517092884
       autolink: true
     design:
       columns: '2'
