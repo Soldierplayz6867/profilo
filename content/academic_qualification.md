@@ -20,7 +20,7 @@ sections:
           company_url: 'https://www.kcis.hc.edu.tw/zh/'
           company_logo: kcis
           location: Taiwan
-          date_start: '2016-08-01'
+          date_start: '2019-08-01'
           date_end: '2022-07-28'
           description: 
         - title: Professor of Semiconductor Physics
