@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: 學歷
 date: 2023-01-10T03:21:57.328Z
 draft: false
 share: false
