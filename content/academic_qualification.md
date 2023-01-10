@@ -4,7 +4,7 @@ date: 2023-01-10T03:21:57.328Z
 draft: false
 share: false
 commentable: false
-editable: false
+editable: true
 type: landing
 header:
   caption: ""
@@ -12,7 +12,7 @@ header:
 sections:
   - block: experience
     content:
-      title: 經驗
+      title: 學歷
       date_format: Jan 2006
       items:
         - title: Professor of Semiconductor Physics
