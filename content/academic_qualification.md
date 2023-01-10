@@ -21,7 +21,7 @@ sections:
           company_logo: kcis
           location: Taiwan
           date_start: '2022-08-01'
-          date_end: '2025-07-28'
+          date_end: 
           description: 
         - title: Junior High School
           company: KangChiao International School (Hsinchu Campus)
