@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Chinese"
+
+# Optional Google font URL
+google_fonts = "family=Noto+Serif&family=Noto+Serif+TC"
+
+# Font families
+heading_font = "serif"
+body_font = "serif"
+nav_font = "serif"
+mono_font = "serif"
