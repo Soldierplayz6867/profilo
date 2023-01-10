@@ -15,6 +15,14 @@ sections:
       title: 🎓學歷🎓
       date_format: 2006 Jan
       items:
+        - title: Senior High School
+          company: KangChiao International School (Xiugang Campus)
+          company_url: 'https://www.kcis.ntpc.edu.tw/_XiugangCampus/zh/'
+          company_logo: kcis
+          location: Taiwan
+          date_start: '2022-08-01'
+          date_end: '2025-07-28'
+          description: 
         - title: Junior High School
           company: KangChiao International School (Hsinchu Campus)
           company_url: 'https://www.kcis.hc.edu.tw/zh/'
