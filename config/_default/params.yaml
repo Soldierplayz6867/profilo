@@ -89,7 +89,7 @@ features:
       shortname: 'soldierplayz-profilo'
       show_count: true
     commento:
-      url: '''
+      url: ''
   search:
     provider: wowchemy
     algolia:
