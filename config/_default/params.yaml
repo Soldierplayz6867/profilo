@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: serif
-  theme_night: serif
-  font: serif
+  theme_day: ui-sans-serif
+  theme_night: ui-sans-serif
+  font: ui-sans-serif
   font_size: L
 
 # SEO
@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} 將軍. 版權所有 {license}'
     license:
       enable: true
       allow_derivatives: false
