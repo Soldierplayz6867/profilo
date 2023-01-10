@@ -5,6 +5,7 @@ draft: false
 share: false
 commentable: false
 editable: false
+type: landing
 header:
   caption: ""
   image: ""
@@ -47,5 +48,5 @@ sections:
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '1'
 ---
