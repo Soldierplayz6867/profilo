@@ -68,24 +68,28 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Soldierplayz6867/profilo'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
+    # Choose a provider: giscus, disqus, commento, or '' to disable commenting
+    provider: 'disqus'
     giscus:
       repo: ''
       repo_id: ''
       category: ''
       category_id: ''
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
+    disqus:
+      shortname: 'soldierplayz-profilo'
+      show_count: true
+    commento:
+      url: '''
   search:
     provider: wowchemy
     algolia:
