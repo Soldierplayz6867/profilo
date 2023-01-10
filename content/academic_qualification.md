@@ -13,7 +13,7 @@ sections:
   - block: experience
     content:
       title: 🎓學歷🎓
-      date_format: Jan 2006
+      date_format: 2006 Jan
       items:
         - title: Junior High School
           company: KangChiao International School (Hsinchu Campus)
