@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} 將軍. 版權所有 {license}'
+    notice: 'Copyright © 2022-{year} Daniel (將軍 SP). All Rights Reserved. {license}'
     license:
       enable: true
       allow_derivatives: false
